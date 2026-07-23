@@ -1,6 +1,6 @@
 # Scope
 
-This Working Group standardizes Uptane, a compromise-resilient framework for securing software updates delivered to electronic control units (ECUs) in ground vehicles, including passenger vehicles, light- and heavy-duty trucks, and motorcycles.
+This Working Group standardizes Uptane, a compromise-resilient framework for securing software updates delivered to a variety of devices.  This includes, but is not limited to, electronic control units (ECUs) in ground vehicles, including passenger vehicles, light- and heavy-duty trucks, and motorcycles.  Other Uptane deployment targets include medical devices, factory controls, and many other scenarios.
 
 ## In Scope
 
