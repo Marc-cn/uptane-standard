@@ -16,6 +16,6 @@ This Working Group standardizes Uptane, a compromise-resilient framework for sec
 * **Compromise of the packaged software:** Malware embedded in an otherwise trusted package.
 * **Supply chain compromise:** Build systems, version control, and packaging processes, which are addressed by complementary frameworks such as in-toto and gittuf.
 * **In-vehicle bus programming:** OBD or UDS programming of ECUs, and authentication of communications between ECUs.
-* **Implementations and transport:** Specific implementations, the network transport used to deliver metadata and images, and OEM back-end architecture.
+* **Implementations and transport:** Specific implementations, the network transport used to deliver metadata and images, and OEM back-end architecture.  These may be publicly released as part of the POUF process, but are not part of the core specification.
 
 Any changes of Scope are not retroactive.
