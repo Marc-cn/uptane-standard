@@ -2,10 +2,9 @@
 
 ## Code of Conduct
 
-Contact for Code of Conduct issues or inquiries:  Justin Cappos <jcappos@nyu.edu>
+Uptane is a [Linux Foundation Joint Development Foundation](https://jointdevelopment.org/) project and follows the [JDF Code of Conduct](https://jointdevelopment.org/policies/code-of-conduct/).
 
-[Ideally list two different individuals above (not a generic mailing list) as someone submitting a Code of Conduct complaint will want to know exactly who is receiving the complaint. We recommend two individuals in the case one of the individuals is the subject of or directly involved in the subject of a complaint.]
-
+Contact for Code of Conduct issues or inquiries: <conduct@jointdevelopment.org>, or the Project Chairperson or the JDF Manager, as provided in the JDF Code of Conduct.
 
 ## License Acceptance
 
