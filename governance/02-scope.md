@@ -14,7 +14,7 @@ This Working Group standardizes Uptane, a compromise-resilient framework for sec
 
 * **Physical attacks:** Manual tampering with ECUs outside the vehicle.
 * **Compromise of the packaged software:** Malware embedded in an otherwise trusted package.
-* **Supply chain compromise:** Build systems, version control, and packaging processes, which are addressed by complementary frameworks such as in-toto.
+* **Supply chain compromise:** Build systems, version control, and packaging processes, which are addressed by complementary frameworks such as in-toto and gittuf.
 * **In-vehicle bus programming:** OBD or UDS programming of ECUs, and authentication of communications between ECUs.
 * **Repository mirroring:** Malicious mirrors substituting packages that carry matching version numbers.
 * **Implementations and transport:** Specific implementations, the network transport used to deliver metadata and images, and OEM back-end architecture.
